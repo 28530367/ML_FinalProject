@@ -1,0 +1,12 @@
+Start time : 2024-12-23 07:29:40
+Epoch [1/50], Loss: 0.01417
+Epoch [2/50], Loss: 0.00809
+Epoch [3/50], Loss: 0.00717
+Epoch [4/50], Loss: 0.00666
+Epoch [5/50], Loss: 0.00631
+Epoch [6/50], Loss: 0.00603
+Epoch [7/50], Loss: 0.00582
+Epoch [8/50], Loss: 0.00566
+Epoch [9/50], Loss: 0.00551
+Epoch [10/50], Loss: 0.00538
+End time : 2024-12-23 23:34:39

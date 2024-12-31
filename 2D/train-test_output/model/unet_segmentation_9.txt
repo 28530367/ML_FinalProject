@@ -1,0 +1,22 @@
+Start time : 2024-12-23 07:29:40
+Epoch [1/50], Loss: 0.01417
+Epoch [2/50], Loss: 0.00809
+Epoch [3/50], Loss: 0.00717
+Epoch [4/50], Loss: 0.00666
+Epoch [5/50], Loss: 0.00631
+Epoch [6/50], Loss: 0.00603
+Epoch [7/50], Loss: 0.00582
+Epoch [8/50], Loss: 0.00566
+Epoch [9/50], Loss: 0.00551
+Epoch [10/50], Loss: 0.00538
+Epoch [11/50], Loss: 0.00527
+Epoch [12/50], Loss: 0.00517
+Epoch [13/50], Loss: 0.00509
+Epoch [14/50], Loss: 0.00500
+Epoch [15/50], Loss: 0.00493
+Epoch [16/50], Loss: 0.00487
+Epoch [17/50], Loss: 0.00480
+Epoch [18/50], Loss: 0.00475
+Epoch [19/50], Loss: 0.00469
+Epoch [20/50], Loss: 0.00464
+End time : 2024-12-24 15:45:58
