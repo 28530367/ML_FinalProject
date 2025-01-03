@@ -1,0 +1,48 @@
+總共有 200000 個 .npz 檔案
+Train set: 160000  Val set: 40000
+[Epoch 1/27] Train Loss: 0.4609, Dice: 0.5682 | Val Loss: 0.3340, Dice: 0.6850
+  --> Best model saved!
+[Epoch 2/27] Train Loss: 0.3162, Dice: 0.7019 | Val Loss: 0.2957, Dice: 0.7212
+  --> Best model saved!
+[Epoch 3/27] Train Loss: 0.2770, Dice: 0.7387 | Val Loss: 0.2621, Dice: 0.7536
+  --> Best model saved!
+[Epoch 4/27] Train Loss: 0.2550, Dice: 0.7594 | Val Loss: 0.2445, Dice: 0.7695
+  --> Best model saved!
+[Epoch 5/27] Train Loss: 0.2405, Dice: 0.7731 | Val Loss: 0.2337, Dice: 0.7796
+  --> Best model saved!
+[Epoch 6/27] Train Loss: 0.2279, Dice: 0.7851 | Val Loss: 0.2380, Dice: 0.7764
+[Epoch 7/27] Train Loss: 0.2195, Dice: 0.7931 | Val Loss: 0.2277, Dice: 0.7853
+  --> Best model saved!
+[Epoch 8/27] Train Loss: 0.2137, Dice: 0.7984 | Val Loss: 0.2244, Dice: 0.7890
+  --> Best model saved!
+[Epoch 9/27] Train Loss: 0.2082, Dice: 0.8037 | Val Loss: 0.2130, Dice: 0.7994
+  --> Best model saved!
+[Epoch 10/27] Train Loss: 0.2024, Dice: 0.8091 | Val Loss: 0.2060, Dice: 0.8058
+  --> Best model saved!
+[Epoch 11/27] Train Loss: 0.1976, Dice: 0.8137 | Val Loss: 0.2105, Dice: 0.8018
+[Epoch 12/27] Train Loss: 0.1937, Dice: 0.8175 | Val Loss: 0.2040, Dice: 0.8077
+  --> Best model saved!
+[Epoch 13/27] Train Loss: 0.1917, Dice: 0.8193 | Val Loss: 0.2000, Dice: 0.8115
+  --> Best model saved!
+[Epoch 14/27] Train Loss: 0.1867, Dice: 0.8240 | Val Loss: 0.1967, Dice: 0.8149
+  --> Best model saved!
+[Epoch 15/27] Train Loss: 0.1834, Dice: 0.8272 | Val Loss: 0.1929, Dice: 0.8180
+  --> Best model saved!
+[Epoch 16/27] Train Loss: 0.1807, Dice: 0.8298 | Val Loss: 0.1930, Dice: 0.8179
+[Epoch 17/27] Train Loss: 0.1795, Dice: 0.8308 | Val Loss: 0.1952, Dice: 0.8161
+[Epoch 18/27] Train Loss: 0.1775, Dice: 0.8327 | Val Loss: 0.1906, Dice: 0.8204
+  --> Best model saved!
+[Epoch 19/27] Train Loss: 0.1740, Dice: 0.8361 | Val Loss: 0.1889, Dice: 0.8222
+  --> Best model saved!
+[Epoch 20/27] Train Loss: 0.1742, Dice: 0.8358 | Val Loss: 0.1872, Dice: 0.8235
+  --> Best model saved!
+[Epoch 21/27] Train Loss: 0.1698, Dice: 0.8401 | Val Loss: 0.1820, Dice: 0.8284
+  --> Best model saved!
+[Epoch 22/27] Train Loss: 0.1677, Dice: 0.8420 | Val Loss: 0.1834, Dice: 0.8277
+[Epoch 23/27] Train Loss: 0.1690, Dice: 0.8407 | Val Loss: 0.1830, Dice: 0.8278
+[Epoch 24/27] Train Loss: 0.1682, Dice: 0.8414 | Val Loss: 0.1824, Dice: 0.8280
+[Epoch 25/27] Train Loss: 0.1640, Dice: 0.8456 | Val Loss: 0.1781, Dice: 0.8322
+  --> Best model saved!
+[Epoch 26/27] Train Loss: 0.1633, Dice: 0.8462 | Val Loss: 0.1794, Dice: 0.8314
+[Epoch 27/27] Train Loss: 0.1616, Dice: 0.8478 | Val Loss: 0.1844, Dice: 0.8266
+Training complete. Final model saved.
